@@ -9,5 +9,16 @@
       "https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resolve/main/codellama-13b-instruct.Q4_K_M.gguf"
     ],
     "sha256": "48cc5600c5e35b1226208a53b1871f50efb15764232babaef23e2264c285d7d9"
+  },
+  {
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "name": "CodeLlama-13B",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-13b-hf",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-13B-GGUF/resolve/main/codellama-13b.Q4_K_M.gguf"
+    ],
+    "sha256": "b889f38ea793b823756e0eb9d3b60a5c5061c2df2d99b6f2fdb7c28328f043ce"
   }
 ]
