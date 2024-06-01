@@ -20,5 +20,16 @@
       "https://huggingface.co/TheBloke/CodeLlama-13B-GGUF/resolve/main/codellama-13b.Q4_K_M.gguf"
     ],
     "sha256": "b889f38ea793b823756e0eb9d3b60a5c5061c2df2d99b6f2fdb7c28328f043ce"
+  },
+  {
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "name": "CodeLlama-7B",
+    "provider_url": "https://huggingface.co/TheBloke/CodeLlama-7B-GGUF",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q4_K_M.gguf"
+    ],
+    "sha256": "a4eaffa534306e0fc6be5a14cb7db02010546e21fefc32794f000c9b26822db3"
   }
 ]
